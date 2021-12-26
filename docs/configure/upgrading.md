@@ -14,7 +14,7 @@ To help ease the pain of keeping Storybook up-to-date, we provide a command-line
 npx sb upgrade
 ```
 
-This upgrades all of the Storybook packages in your project to the latest stable version, perform confidence checks of your package versions, and checks for opportunities to run [automigrations](#automigrate) to update your configuration automatically.
+This upgrades all of the Storybook packages in your project to the latest stable version, perform confidence checks of your package versions, and checks for opportunities to run [automigrations](#automigrate-script) to update your configuration automatically.
 
 <div class="aside">
 
